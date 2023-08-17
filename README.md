@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python, ANN, CNN, NLP**
 
-- 👨‍💻 All of my projects are available at my repositories :)
+- 👨‍💻 All of my projects are available in my repositories :)
 
 - 📫 How to reach me **arungk.63@gmail.com**
 
